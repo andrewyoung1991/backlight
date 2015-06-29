@@ -4,7 +4,9 @@ backlight is a simple python module for changing the keyboard or monitor backlig
 
 ```bash
 $ backlight-ctl --decrease monitor
+monitor brightness has been set to 12000
 $ backlight-ctl --increase keyboard
+keyboard brightness has been set to 25
 $ baclkight-ctl --help
 usage: backlight-cli [-h] [-i] [-d] [-g] {keyboard,monitor}
 
