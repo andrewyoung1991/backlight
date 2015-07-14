@@ -7,7 +7,7 @@ $ backlight-cli --decrease monitor
 monitor brightness has been set to 12000
 $ backlight-cli --increase keyboard
 keyboard brightness has been set to 25
-$ baclkight-cli --help
+$ backlight-cli --help
 usage: backlight-cli [-h] [-i] [-d] [-g] {keyboard,monitor}
 
 changes the backlight brightness
